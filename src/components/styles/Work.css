@@ -184,11 +184,18 @@
 .work-image {
   display: flex;
   width: 100%;
+  height: auto;
+  object-fit: contain;
   justify-content: center;
 }
 
 .work-image-in {
   position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 550px;
+  height: 320px;
 }
 
 .work-link {
@@ -326,6 +333,10 @@
   }
 
   .work-image img {
-    max-height: 250px;
-  }
+  width: 100%;
+  max-width: 550px;
+  height: 320px;
+  object-fit: contain;
+  border-radius: 8px;
+}
 }
