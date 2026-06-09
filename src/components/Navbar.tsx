@@ -43,16 +43,16 @@ const Navbar = () => {
     <>
       <div className="header">
         <a href="/#" className="navbar-title" data-cursor="disable">
-          AM
+          RK
         </a>
         <a
-          href="https://www.linkedin.com/in/akashrmalhotra/"
+          href="https://www.linkedin.com/in/ravish-kansal-7a86b4376/"
           className="navbar-connect"
           data-cursor="disable"
           target="_blank"
           rel="noreferrer"
         >
-          linkedin.com/in/akashrmalhotra
+          linkedin.com/in/ravishkansal
         </a>
         <ul>
           <li>

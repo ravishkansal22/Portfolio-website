@@ -5,32 +5,32 @@ import { MdArrowBack, MdArrowForward } from "react-icons/md";
 
 const projects = [
   {
-    title: "CallHQ",
-    category: "Voice AI Calling Platform",
-    tools: "Voice AI, Calling Automation, CRM Integrations",
+    title: "AndrewNG Digital Twin",
+    category: "AI Powered RAG System",
+    tools: "RAG, LLMs, Vector Databases, Retrieval Augmentation",
     image: "/images/callhq.png",
-    link: "https://callhq.ai",
+    link: "https://github.com/ravishkansal22/Digital-Twin",
   },
   {
-    title: "Whatsapp Automation",
-    category: "WABA Application",
-    tools: "WhatsApp Business API, Workflow Automation, Notifications",
+    title: "GestureOS",
+    category: "AI-Powered Gesture Recognition System",
+    tools: "Computer Vision, Deep Learning, Real-Time Processing, CNN",
     image: "/images/whatsapp.png",
-    link: "https://whatsapp.callhq.ai",
+    link: "https://github.com/ravishkansal22/GestureOS",
   },
   {
-    title: "Broki",
-    category: "Real Estate Platform for FnB Industry",
-    tools: "Property Discovery, Lead Management, Marketplace Workflows",
+    title: "Agentic Deep Research",
+    category: "AI Research Assistant with Agentic Capabilities",
+    tools: "LLMs, Agentic AI, Research Automation, Natural Language Processing",
     image: "/images/broki.png",
-    link: "https://broki.in",
+    link: "https://github.com/ravishkansal22/Agentic-Deep-Research",
   },
   {
-    title: "Orrdr.com",
-    category: "Ecommerce Platform and Mobile App",
-    tools: "Ecommerce, Mobile Experience, Order Management",
+    title: "Gesture Controlled Drone",
+    category: "AI-Powered Drone Control System",
+    tools: "Computer Vision, Deep Learning, Real-Time Processing",
     image: "/images/orrdr.png",
-    link: "https://orrdr.com",
+    link: "https://github.com/ravishkansal22/gesture_controlled_drone",
   },
 ];
 
